@@ -6,6 +6,7 @@
 
 // includes
 #include <iostream>
+#include <cstring>
 
 #include "GLCAlib.h"
 
