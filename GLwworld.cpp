@@ -6,7 +6,7 @@
 
 // includes
 #include <iostream>
-
+#include <cstring>
 #include "GLCAlib.h"
 
 ///\brief Implements in GLSL the rules of the Automata

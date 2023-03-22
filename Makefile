@@ -1,6 +1,6 @@
 RM=rm -Rf
 CXXFLAGS=-O3
-LDFLAGS=-lGLEW -lGL -lglut
+LDFLAGS=-lGLEW -lGL -lGLU -lglut
 
 LIB=GLCAlib
 DOC=doxygen
